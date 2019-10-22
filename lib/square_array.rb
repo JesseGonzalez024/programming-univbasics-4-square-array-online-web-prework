@@ -1,4 +1,6 @@
 def square_array(array)
   while numbers
-    new_numbers
+    
 end
+
+new_numbers.to_a
