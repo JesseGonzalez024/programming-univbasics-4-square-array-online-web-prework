@@ -1,8 +1,7 @@
 def square_array(array)
-  array[0] **2 
-  array[1]
-  array[2]
-  array[3]
+  array[0]**
+  array[1]**
+  array[2]**
   
 end
 
