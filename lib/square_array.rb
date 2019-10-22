@@ -2,6 +2,7 @@ def square_array(array)
   while array.length do
     
     
+    
     new_numbers = [num1, num2, num3]
     p new_numbers
 end
