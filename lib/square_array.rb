@@ -1,5 +1,5 @@
 def square_array(array)
-  array ** 2 
+  array
 end
 
 #new_numbers.to_a
