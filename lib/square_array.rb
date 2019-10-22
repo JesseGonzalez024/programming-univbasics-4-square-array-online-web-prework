@@ -1,5 +1,5 @@
 def square_array(array)
-  array[0]** 
+  array[0]**
   array[1]**
   array[2]**
   
